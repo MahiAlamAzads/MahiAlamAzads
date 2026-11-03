@@ -29,7 +29,7 @@
 
 I am a results-driven **Full Stack Software Engineer** specializing in **Backend Architecture, Database Engineering, and High-Performance Web Applications**. 
 
-- 🚀 **Software Developer** at **[W. Apparels Ltd.](wapparels.com)** — architecting modern digital products, client platforms, and high-productivity developer toolkits.
+- 🚀 **Software Developer** at **[W. Apparels Ltd.](https://www.wapparels.com)** — architecting modern digital products, client platforms, and high-productivity developer toolkits.
 - ⚡ **Engineering Principles:** Clean OOP & layered architectural patterns, resilient API design, airtight authentication models (scrypt/JWT/MFA), and responsive, accessible interfaces.
 - 🛠️ **Active Builder:** Authored 120+ repositories across production SaaS platforms, microservices, e-commerce engines, and blockchain dApps.
 - 🎯 **Current Focus:** Scalable distributed backends, PostgreSQL query optimization, Prisma ORM, and high-concurrency Node.js & Next.js applications.
